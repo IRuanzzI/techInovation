@@ -45,16 +45,7 @@ cordova run android
 📦 Estrutura de Arquivos
 bash
 Copiar código
-GreenTech/
-│
-├── www/                  # Código fonte da aplicação
-│   ├── css/              # Estilos CSS
-│   ├── js/               # Scripts JavaScript
-│   ├── img/              # Imagens usadas no app
-│   ├── index.html        # Página inicial do app
-│
-├── config.xml            # Configurações do Cordova
-└── README.md             # Este arquivo
+
 🛠️ Funcionalidades Futuras
 📦 Sistema de login e cadastro de usuário.
 🌟 Avaliação e comentários de produtos.
